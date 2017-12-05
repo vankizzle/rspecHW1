@@ -1,3 +1,4 @@
+require_relative '../lib/rome_converter'
 require 'rails_helper'
 
 RSpec.describe RomeConverter do
